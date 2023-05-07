@@ -1,0 +1,231 @@
+{
+  "record_type": {
+    "value": "PUBLIC",
+    "desc": "Public"
+  },
+  "primary_id": "0000958644032657@test.eduid.ch",
+  "first_name": "Rapha\u00ebl",
+  "middle_name": "",
+  "last_name": "Rey",
+  "full_name": "Rapha\u00ebl Rey",
+  "user_title": {
+    "value": "",
+    "desc": ""
+  },
+  "job_category": {
+    "value": "",
+    "desc": ""
+  },
+  "job_description": "",
+  "gender": {
+    "value": "",
+    "desc": ""
+  },
+  "user_group": {
+    "value": "01",
+    "desc": " Swiss Resident"
+  },
+  "campus_code": {
+    "value": null,
+    "desc": ""
+  },
+  "web_site_url": "",
+  "cataloger_level": {
+    "value": "00",
+    "desc": "[00] view only"
+  },
+  "preferred_language": {
+    "value": "fr",
+    "desc": "French"
+  },
+  "birth_date": "1927-04-03Z",
+  "account_type": {
+    "value": "EXTERNAL",
+    "desc": "External"
+  },
+  "external_id": "edu-ID",
+  "password": "",
+  "force_password_change": "",
+  "status": {
+    "value": "ACTIVE",
+    "desc": "Active"
+  },
+  "status_date": "2022-03-11Z",
+  "requests": null,
+  "loans": null,
+  "fees": null,
+  "contact_info": {
+    "address": [
+      {
+        "line1": "Boton 116",
+        "line2": null,
+        "line3": null,
+        "line4": null,
+        "line5": null,
+        "city": "Bex",
+        "state_province": "",
+        "postal_code": "1880",
+        "country": {
+          "value": "CHE",
+          "desc": "Switzerland"
+        },
+        "address_note": "Unverified",
+        "preferred": true,
+        "segment_type": "External",
+        "address_type": [
+          {
+            "value": "home",
+            "desc": "Home"
+          }
+        ]
+      }
+    ],
+    "email": [
+      {
+        "email_address": "rrraphaaa@mailinator.com",
+        "description": "User-managed e-mail",
+        "preferred": false,
+        "segment_type": "External",
+        "email_type": [
+          {
+            "value": "personal",
+            "desc": "Personal"
+          }
+        ]
+      },
+      {
+        "email_address": "rrraphaa@mailinator.com",
+        "description": "User-managed e-mail",
+        "preferred": false,
+        "segment_type": "External",
+        "email_type": [
+          {
+            "value": "personal",
+            "desc": "Personal"
+          }
+        ]
+      },
+      {
+        "email_address": "rrrapha@mailinator.com",
+        "description": "Primary contact e-mail chosen by user",
+        "preferred": true,
+        "segment_type": "External",
+        "email_type": [
+          {
+            "value": "personal",
+            "desc": "Personal"
+          }
+        ]
+      }
+    ],
+    "phone": [
+      {
+        "phone_number": "+41 32 33433443",
+        "preferred": true,
+        "preferred_sms": false,
+        "segment_type": "External",
+        "phone_type": [
+          {
+            "value": "home",
+            "desc": "Home"
+          }
+        ]
+      }
+    ]
+  },
+  "pref_first_name": "",
+  "pref_middle_name": "",
+  "pref_last_name": "",
+  "pref_name_suffix": "",
+  "is_researcher": false,
+  "researcher": null,
+  "link": null,
+  "user_identifier": [
+    {
+      "value": "e0a24befa0fa28f248238383306384db924a57944f3985d2",
+      "id_type": {
+        "value": "05",
+        "desc": "PersistentID edu-ID"
+      },
+      "note": "edu-ID persistentID (hex value)",
+      "status": "ACTIVE",
+      "segment_type": "External"
+    },
+    {
+      "value": "e121200123",
+      "id_type": {
+        "value": "02",
+        "desc": "Barcode NZ"
+      },
+      "note": "Added by admin from IZ bverw on 2022-03-11 13:54:00.",
+      "status": "ACTIVE",
+      "segment_type": "External"
+    },
+    {
+      "value": "87654321",
+      "id_type": {
+        "value": "02",
+        "desc": "Barcode NZ"
+      },
+      "note": "Added by admin from 41SLSP_HPH on 2022-05-17",
+      "status": "ACTIVE",
+      "segment_type": "External"
+    },
+    {
+      "value": "87-654-321",
+      "id_type": {
+        "value": "02",
+        "desc": "Barcode NZ"
+      },
+      "note": "Added by admin from 41SLSP_HPH on 2022-05-17",
+      "status": "ACTIVE",
+      "segment_type": "External"
+    }
+  ],
+  "user_role": [
+    {
+      "status": {
+        "value": "ACTIVE",
+        "desc": "Active"
+      },
+      "scope": {
+        "value": "41SLSP_NETWORK",
+        "desc": "SLSP Network Zone"
+      },
+      "role_type": {
+        "value": "200",
+        "desc": "Patron"
+      },
+      "parameter": []
+    }
+  ],
+  "user_block": [],
+  "user_note": [
+    {
+      "note_type": {
+        "value": "OTHER",
+        "desc": "Other"
+      },
+      "note_text": "Registration Info: Initial registration via IZ network.",
+      "user_viewable": false,
+      "popup_note": false,
+      "created_by": "registration-test.slsp.ch",
+      "created_date": "2022-03-11T12:25:25Z",
+      "segment_type": "External"
+    },
+    {
+      "note_type": {
+        "value": "ADDRESS",
+        "desc": "Address"
+      },
+      "note_text": "Test note",
+      "user_viewable": false,
+      "popup_note": false,
+      "created_by": "admin",
+      "created_date": "2022-07-05T07:01:00.712Z",
+      "segment_type": "Internal"
+    }
+  ],
+  "user_statistic": [],
+  "proxy_for_user": []
+}
