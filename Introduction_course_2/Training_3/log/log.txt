@@ -1,0 +1,7 @@
+2023-05-30 07:40:55,359 - INFO - Item(barcode='DSVN1133713', zone='UBS', env='S'): item data fetched with barcode 'DSVN1133713'
+2023-05-30 07:47:23,978 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user data available
+2023-05-30 11:20:28,316 - ERROR - No such comm target registered: jupyter.widget.control
+2023-05-30 11:20:28,322 - WARNING - No such comm: ba9e32da-c1e5-42f3-8eaa-c3105f354807
+2023-05-30 11:45:56,978 - ERROR - No such comm target registered: jupyter.widget.control
+2023-05-30 11:45:56,982 - WARNING - No such comm: 338af7a1-f26e-4efc-b913-ca5fb5a0589d
+2023-05-30 12:33:29,914 - INFO - User('raphael.rey@slsp.ch', 'UZB', 'P'): user data available
