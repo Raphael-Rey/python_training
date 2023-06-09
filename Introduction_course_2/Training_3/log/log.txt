@@ -5,3 +5,10 @@
 2023-05-30 11:45:56,978 - ERROR - No such comm target registered: jupyter.widget.control
 2023-05-30 11:45:56,982 - WARNING - No such comm: 338af7a1-f26e-4efc-b913-ca5fb5a0589d
 2023-05-30 12:33:29,914 - INFO - User('raphael.rey@slsp.ch', 'UZB', 'P'): user data available
+2023-06-09 10:20:23,744 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user data available
+2023-06-09 10:23:22,404 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user data available
+2023-06-09 10:23:22,956 - ERROR - User('raphael.rey@slsp.ch', 'UBS', 'S') - 400: failed to update user / unknown error
+2023-06-09 10:23:53,231 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user data available
+2023-06-09 10:24:03,595 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user updated.
+2023-06-09 10:24:03,866 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user data available
+2023-06-09 10:24:04,824 - INFO - User('raphael.rey@slsp.ch', 'UBS', 'S'): user updated.
