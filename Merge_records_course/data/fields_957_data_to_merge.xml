@@ -4,13 +4,6 @@
     <datafield tag="035" ind1=" " ind2=" ">
       <subfield code="a">(ABN)000130026ABN01</subfield>
     </datafield>
-    <datafield tag="600" ind1="1" ind2="7">
-      <subfield code="a">Shakespeare, William</subfield>
-      <subfield code="d">1564-1616</subfield>
-      <subfield code="t">&lt;&lt;The&gt;&gt; merchant of Venice</subfield>
-      <subfield code="0">(DE-588)4099363-2</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
     <datafield tag="650" ind1=" " ind2="7">
       <subfield code="a">Deutschunterricht</subfield>
       <subfield code="0">(DE-588)4011975-0</subfield>
@@ -23,42 +16,9 @@
     </datafield>
   </record>
   <record>
-    <controlfield tag="001">991016275679705501</controlfield>
-    <datafield tag="035" ind1=" " ind2=" ">
-      <subfield code="a">(ABN)000130029ABN01</subfield>
-    </datafield>
-    <datafield tag="600" ind1="1" ind2="7">
-      <subfield code="a">Kleist, Heinrich &lt;&lt;von&gt;&gt;</subfield>
-      <subfield code="d">1777-1811</subfield>
-      <subfield code="t">&lt;&lt;Das&gt;&gt; Erdbeben in Chili</subfield>
-      <subfield code="0">(DE-588)4119913-3</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-  </record>
-  <record>
-    <controlfield tag="001">991127232439705501</controlfield>
-    <datafield tag="035" ind1=" " ind2=" ">
-      <subfield code="a">(ABN)000130030ABN01</subfield>
-    </datafield>
-    <datafield tag="600" ind1="1" ind2="7">
-      <subfield code="a">Klemperer, Victor</subfield>
-      <subfield code="d">1881-1960</subfield>
-      <subfield code="t">Ich will Zeugnis ablegen bis zum letzten</subfield>
-      <subfield code="0">(DE-588)4459970-5</subfield>
-      <subfield code="2">gnd</subfield>
-    </datafield>
-  </record>
-  <record>
     <controlfield tag="001">991137701639705501</controlfield>
     <datafield tag="035" ind1=" " ind2=" ">
       <subfield code="a">(ABN)000130031ABN01</subfield>
-    </datafield>
-    <datafield tag="600" ind1="1" ind2="7">
-      <subfield code="a">Weiss, Peter</subfield>
-      <subfield code="d">1916-1982</subfield>
-      <subfield code="t">&lt;&lt;Die&gt;&gt; Verfolgung und Ermordung Jean Paul Marats</subfield>
-      <subfield code="0">(DE-588)4196577-2</subfield>
-      <subfield code="2">gnd</subfield>
     </datafield>
     <datafield tag="655" ind1=" " ind2="7">
       <subfield code="a">Kommentar</subfield>
@@ -69,12 +29,6 @@
     <controlfield tag="001">991064574249705501</controlfield>
     <datafield tag="035" ind1=" " ind2=" ">
       <subfield code="a">(ABN)000130056ABN01</subfield>
-    </datafield>
-    <datafield tag="600" ind1="1" ind2="7">
-      <subfield code="a">Esterh&#225;zy, P&#233;ter</subfield>
-      <subfield code="d">1950-2016</subfield>
-      <subfield code="0">(DE-588)118899619</subfield>
-      <subfield code="2">gnd</subfield>
     </datafield>
     <datafield tag="650" ind1=" " ind2="7">
       <subfield code="a">Schriftsteller</subfield>
@@ -100,20 +54,6 @@
     <datafield tag="648" ind1=" " ind2="7">
       <subfield code="a">Geschichte</subfield>
       <subfield code="2">gnd</subfield>
-    </datafield>
-    <datafield tag="655" ind1=" " ind2="7">
-      <subfield code="a">Aufsatzsammlung</subfield>
-      <subfield code="2">gnd-content</subfield>
-    </datafield>
-  </record>
-  <record>
-    <controlfield tag="001">991017195439705501</controlfield>
-    <datafield tag="035" ind1=" " ind2=" ">
-      <subfield code="a">(ABN)000130084ABN01</subfield>
-    </datafield>
-    <datafield tag="655" ind1=" " ind2="7">
-      <subfield code="a">Reisebericht</subfield>
-      <subfield code="2">gnd-content</subfield>
     </datafield>
   </record>
 </collection>
