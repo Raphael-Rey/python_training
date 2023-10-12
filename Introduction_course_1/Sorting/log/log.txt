@@ -29,3 +29,22 @@
 2023-09-28 22:52:44,769 - INFO - User('0000928200592230@test.eduid.ch', 'NZ', 'S'): user data available
 2023-09-28 22:52:44,980 - INFO - User('0000200306147807@test.eduid.ch', 'NZ', 'S'): user data available
 2023-09-28 22:52:45,203 - INFO - User('0000517661535517@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 10:54:21,509 - ERROR - User('264560031989@test.eduid.ch', 'NZ', 'P') - 400: unable to fetch user data / User with identifier 264560031989@test.eduid.ch was not found.
+2023-09-29 10:54:36,382 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 10:54:59,554 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 13:05:17,837 - ERROR - No such comm target registered: jupyter.widget.control
+2023-09-29 13:05:17,843 - WARNING - No such comm: e6616d99-061f-400d-b6ca-7ed944bbdca0
+2023-09-29 17:00:26,872 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 17:01:21,091 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 17:01:36,947 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 17:01:37,570 - INFO - User('0000928200592230@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 17:01:37,794 - INFO - User('0000200306147807@test.eduid.ch', 'NZ', 'S'): user data available
+2023-09-29 17:01:38,017 - INFO - User('0000517661535517@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:11:30,435 - INFO - User('0000200306147807@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:13:44,398 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:13:44,592 - INFO - User('0000928200592230@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:13:44,838 - INFO - User('0000517661535517@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:22:19,514 - INFO - User('264560031989@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:22:19,738 - INFO - User('0000928200592230@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:22:19,956 - INFO - User('0000200306147807@test.eduid.ch', 'NZ', 'S'): user data available
+2023-10-06 09:22:20,189 - INFO - User('0000517661535517@test.eduid.ch', 'NZ', 'S'): user data available
